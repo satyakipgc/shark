@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="92b914b147a1311029853e7d826d43ff" extends="x_103446_help_911_nurses" label="On Call Details" max_length="40" name="x_103446_help_911_on_call_details" type="collection">
+        <element choice="1" label="Acceptance State" max_length="40" name="acceptance_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Accept Request" sequence="0" value="accept"/>
+                <element inactive_on_update="false" label="Attending another patient" sequence="1" value="another"/>
+                <element inactive_on_update="false" label="Route to available nurse" sequence="2" value="route"/>
+            </choice>
+        </element>
         <element label="Attending Doctor" max_length="32" name="attending_doctor" reference="sys_user" type="reference"/>
+        <element label="Nurse/Caregiver Requested" max_length="255" name="nurse_caregiver_requested" type="boolean"/>
         <element label="Patient ID" max_length="40" name="patient_id" type="string"/>
         <element label="Patient Name" max_length="32" name="patient_name" reference="sys_user" type="reference"/>
         <element label="Recurring Call" max_length="255" name="recurring_call" type="boolean"/>

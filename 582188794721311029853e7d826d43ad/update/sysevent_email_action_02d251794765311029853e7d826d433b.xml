@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>true</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_103446_help_911_on_call_details</collection>
+        <condition table="x_103446_help_911_on_call_details">nurse_caregiver_requested=true<item endquery="false" field="nurse_caregiver_requested" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<br><hr><br>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name/>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>Hello ${nurse_name},</p>
+<p>Patient with the below details has requested for On-Call attention.</p>
+<p><strong>Patient ID</strong>: ${patient_id}</p>
+<p><strong>Patient Name:</strong> ${patient_name}</p>
+<p><strong>Attending Doctor:</strong> ${attending_doctor}</p>
+<p><strong>Hospital:</strong> ${hospital}</p>
+<p><strong>Department:</strong> ${department}</p>
+<p>Please respond accordingly.</p>
+<p>Thank you,</p>
+<p>Help 911 Team.</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Set On Call Reminder</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>nurse_name,attending_doctor</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>false</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>On Call for [${patient_id}] - [${patient_name}]</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-28 14:30:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>02d251794765311029853e7d826d433b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Set On Call Reminder</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Help 911" source="x_103446_help_911">582188794721311029853e7d826d43ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Help 911">582188794721311029853e7d826d43ad</sys_scope>
+        <sys_update_name>sysevent_email_action_02d251794765311029853e7d826d433b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-28 14:47:33</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

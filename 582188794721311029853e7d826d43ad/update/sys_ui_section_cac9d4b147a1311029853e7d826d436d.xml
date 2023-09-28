@@ -4,41 +4,69 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-09-28 10:35:22</sys_created_on>
-            <sys_id>35fe1cf547a1311029853e7d826d437a</sys_id>
+            <sys_created_on>2023-09-28 14:28:13</sys_created_on>
+            <sys_id>b44499b94765311029853e7d826d4305</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Nurse Details" display_value="Nurse Details" name="x_103446_help_911_on_call_details" sys_domain="global" view="Default view">cac9d4b147a1311029853e7d826d436d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-09-28 10:35:22</sys_updated_on>
+            <sys_updated_on>2023-09-28 14:28:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nurse_caregiver_requested</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 14:28:13</sys_created_on>
+            <sys_id>bc4499b94765311029853e7d826d4305</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Nurse Details" display_value="Nurse Details" name="x_103446_help_911_on_call_details" sys_domain="global" view="Default view">cac9d4b147a1311029853e7d826d436d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 14:28:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-09-28 10:35:22</sys_created_on>
-            <sys_id>39fe1cf547a1311029853e7d826d437a</sys_id>
+            <sys_created_on>2023-09-28 14:28:13</sys_created_on>
+            <sys_id>b04499b94765311029853e7d826d4306</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Nurse Details" display_value="Nurse Details" name="x_103446_help_911_on_call_details" sys_domain="global" view="Default view">cac9d4b147a1311029853e7d826d436d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-09-28 10:35:22</sys_updated_on>
+            <sys_updated_on>2023-09-28 14:28:13</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>recurring_call</element>
-            <position>2</position>
+            <element>acceptance_state</element>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-09-28 10:35:22</sys_created_on>
-            <sys_id>3dfe1cf547a1311029853e7d826d437a</sys_id>
+            <sys_created_on>2023-09-28 14:28:13</sys_created_on>
+            <sys_id>b44499b94765311029853e7d826d4306</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Nurse Details" display_value="Nurse Details" name="x_103446_help_911_on_call_details" sys_domain="global" view="Default view">cac9d4b147a1311029853e7d826d436d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-09-28 10:35:22</sys_updated_on>
+            <sys_updated_on>2023-09-28 14:28:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>recurring_call</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 14:28:13</sys_created_on>
+            <sys_id>b84499b94765311029853e7d826d4306</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Nurse Details" display_value="Nurse Details" name="x_103446_help_911_on_call_details" sys_domain="global" view="Default view">cac9d4b147a1311029853e7d826d436d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 14:28:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

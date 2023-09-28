@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_environment">
+    <sn_pipeline_environment action="INSERT_OR_UPDATE">
+        <instance_credential display_value="ServiceNowNLU">278d20e573003300646108b24ff6a7a1</instance_credential>
+        <instance_id>f7c3a110dbc0ef847d8cf22ebf9619c3</instance_id>
+        <instance_type>dev</instance_type>
+        <instance_url>https://psjhupgrade.service-now.com/</instance_url>
+        <is_controller>false</is_controller>
+        <name>Shark Dev</name>
+        <sys_class_name>sn_pipeline_environment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-28 14:54:20</sys_created_on>
+        <sys_id>042a1d3147a5311029853e7d826d4382</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Shark Dev</sys_name>
+        <sys_package display_value="Help 911" source="x_103446_help_911">582188794721311029853e7d826d43ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Help 911">582188794721311029853e7d826d43ad</sys_scope>
+        <sys_update_name>sn_pipeline_environment_042a1d3147a5311029853e7d826d4382</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-28 15:06:00</sys_updated_on>
+    </sn_pipeline_environment>
+</record_update>

@@ -4,41 +4,55 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-09-28 10:38:59</sys_created_on>
-            <sys_id>72cf583947a1311029853e7d826d436e</sys_id>
+            <sys_created_on>2023-09-28 14:35:48</sys_created_on>
+            <sys_id>7bf5553d4765311029853e7d826d43e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Details" display_value="Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">f3ab983547a1311029853e7d826d4305</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-09-28 10:38:59</sys_updated_on>
+            <sys_updated_on>2023-09-28 14:35:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ambulance_dispatch_state</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 14:35:48</sys_created_on>
+            <sys_id>7ff5553d4765311029853e7d826d43e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Details" display_value="Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">f3ab983547a1311029853e7d826d4305</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 14:35:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-09-28 10:38:59</sys_created_on>
-            <sys_id>76cf583947a1311029853e7d826d436e</sys_id>
+            <sys_created_on>2023-09-28 14:35:48</sys_created_on>
+            <sys_id>73f5553d4765311029853e7d826d43e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Details" display_value="Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">f3ab983547a1311029853e7d826d4305</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-09-28 10:38:59</sys_updated_on>
+            <sys_updated_on>2023-09-28 14:35:48</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>emergency</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-09-28 10:38:59</sys_created_on>
-            <sys_id>7acf583947a1311029853e7d826d436e</sys_id>
+            <sys_created_on>2023-09-28 14:35:48</sys_created_on>
+            <sys_id>77f5553d4765311029853e7d826d43e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Details" display_value="Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">f3ab983547a1311029853e7d826d4305</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-09-28 10:38:59</sys_updated_on>
+            <sys_updated_on>2023-09-28 14:35:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

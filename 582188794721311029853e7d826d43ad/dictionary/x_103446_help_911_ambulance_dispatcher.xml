@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="8a9bd43547a1311029853e7d826d4322" extends="x_103446_help_911_nurses" label="Ambulance Dispatcher" max_length="40" name="x_103446_help_911_ambulance_dispatcher" type="collection">
+        <element choice="1" label="Ambulance Dispatch State" max_length="40" name="ambulance_dispatch_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Assigned" sequence="0" value="not_assigned"/>
+                <element inactive_on_update="false" label="On route to location" sequence="1" value="on_route_location"/>
+                <element inactive_on_update="false" label="Arrived at location" sequence="2" value="arrived"/>
+                <element inactive_on_update="false" label="On route to hospital" sequence="3" value="on_route_hospital"/>
+                <element inactive_on_update="false" label="Available for dispatch" sequence="4" value="available"/>
+            </choice>
+        </element>
         <element label="Dispatched by Nurse" max_length="32" name="dispatched_by_nurse" reference="sys_user" type="reference"/>
         <element label="Emergency" max_length="40" name="emergency" type="boolean"/>
         <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
         <element label="Notes" max_length="40" name="notes" type="journal_input"/>
+        <element label="Requested Patient ID" max_length="40" name="requested_patient_id" type="string"/>
+        <element label="Requested Patient Name" max_length="32" name="requested_patient_name" reference="sys_user" type="reference"/>
         <element label="Scheduled" max_length="255" name="scheduled" type="glide_date_time"/>
         <index name="index">
             <element name="dispatched_by_nurse"/>
         </index>
         <index name="index2">
             <element name="location"/>
+        </index>
+        <index name="index3">
+            <element name="requested_patient_name"/>
         </index>
     </element>
 </database>

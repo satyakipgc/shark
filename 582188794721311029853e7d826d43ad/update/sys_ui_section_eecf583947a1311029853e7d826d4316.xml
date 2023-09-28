@@ -4,41 +4,69 @@
             <element>location</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-09-28 10:38:59</sys_created_on>
-            <sys_id>3acf583947a1311029853e7d826d4372</sys_id>
+            <sys_created_on>2023-09-28 14:46:08</sys_created_on>
+            <sys_id>5b585dbd4765311029853e7d826d43bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Patient Pick Up Details" display_value="Patient Pick Up Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">eecf583947a1311029853e7d826d4316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-09-28 10:38:59</sys_updated_on>
+            <sys_updated_on>2023-09-28 14:46:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_patient_id</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 14:46:08</sys_created_on>
+            <sys_id>5f585dbd4765311029853e7d826d43bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Patient Pick Up Details" display_value="Patient Pick Up Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">eecf583947a1311029853e7d826d4316</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 14:46:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-09-28 10:38:59</sys_created_on>
-            <sys_id>3ecf583947a1311029853e7d826d4372</sys_id>
+            <sys_created_on>2023-09-28 14:46:08</sys_created_on>
+            <sys_id>53585dbd4765311029853e7d826d43bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Patient Pick Up Details" display_value="Patient Pick Up Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">eecf583947a1311029853e7d826d4316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-09-28 10:38:59</sys_updated_on>
+            <sys_updated_on>2023-09-28 14:46:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>scheduled</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-09-28 10:38:59</sys_created_on>
-            <sys_id>32cf583947a1311029853e7d826d4373</sys_id>
+            <sys_created_on>2023-09-28 14:46:08</sys_created_on>
+            <sys_id>57585dbd4765311029853e7d826d43bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Patient Pick Up Details" display_value="Patient Pick Up Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">eecf583947a1311029853e7d826d4316</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-09-28 10:38:59</sys_updated_on>
+            <sys_updated_on>2023-09-28 14:46:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_patient_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 14:46:08</sys_created_on>
+            <sys_id>5b585dbd4765311029853e7d826d43bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Patient Pick Up Details" display_value="Patient Pick Up Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">eecf583947a1311029853e7d826d4316</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 14:46:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
