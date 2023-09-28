@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ff6100b94721311029853e7d826d4301" label="Nurses" max_length="40" name="x_103446_help_911_nurses" type="collection">
+        <element label="Department" max_length="32" name="department" reference="cmn_department" type="reference"/>
+        <element label="Hospital" max_length="32" name="hospital" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Nurse Name" mandatory="true" max_length="32" name="nurse_name" reference="sys_user" type="reference"/>
+        <element label="On Call" max_length="255" name="on_call" type="boolean"/>
+        <element label="On Duty" max_length="255" name="on_duty" type="boolean"/>
+        <element choice="1" label="Skills" max_length="40" name="skills" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="Child Care" sequence="0" value="Child"/>
+                <element inactive_on_update="false" label="Maternity" sequence="1" value="Maternity"/>
+                <element inactive_on_update="false" label="Emergency/ICU" sequence="2" value="Emergency"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="department"/>
+        </index>
+        <index name="index2">
+            <element name="hospital"/>
+        </index>
+        <index name="index3">
+            <element name="nurse_name"/>
+        </index>
+        <index name="index4">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

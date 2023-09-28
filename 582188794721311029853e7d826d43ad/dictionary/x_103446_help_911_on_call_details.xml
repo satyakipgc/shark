@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="92b914b147a1311029853e7d826d43ff" extends="x_103446_help_911_nurses" label="On Call Details" max_length="40" name="x_103446_help_911_on_call_details" type="collection">
+        <element label="Attending Doctor" max_length="32" name="attending_doctor" reference="sys_user" type="reference"/>
+        <element label="Patient ID" max_length="40" name="patient_id" type="string"/>
+        <element label="Patient Name" max_length="32" name="patient_name" reference="sys_user" type="reference"/>
+        <element label="Recurring Call" max_length="255" name="recurring_call" type="boolean"/>
+        <element display="true" label="Work Notes" max_length="255" name="work_notes" type="journal_input"/>
+        <index name="index">
+            <element name="attending_doctor"/>
+        </index>
+        <index name="index2">
+            <element name="patient_name"/>
+        </index>
+    </element>
+</database>

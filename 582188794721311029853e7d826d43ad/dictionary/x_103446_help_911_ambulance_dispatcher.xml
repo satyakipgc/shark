@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8a9bd43547a1311029853e7d826d4322" extends="x_103446_help_911_nurses" label="Ambulance Dispatcher" max_length="40" name="x_103446_help_911_ambulance_dispatcher" type="collection">
+        <element label="Dispatched by Nurse" max_length="32" name="dispatched_by_nurse" reference="sys_user" type="reference"/>
+        <element label="Emergency" max_length="40" name="emergency" type="boolean"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element label="Notes" max_length="40" name="notes" type="journal_input"/>
+        <element label="Scheduled" max_length="255" name="scheduled" type="glide_date_time"/>
+        <index name="index">
+            <element name="dispatched_by_nurse"/>
+        </index>
+        <index name="index2">
+            <element name="location"/>
+        </index>
+    </element>
+</database>

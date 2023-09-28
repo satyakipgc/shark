@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Nurse Details" section_id="ade6d0bd4761311029853e7d826d43e4" sys_domain="global" table="x_103446_help_911_ambulance_dispatcher" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 10:00:08</sys_created_on>
+            <sys_id>6de6d0fd4761311029853e7d826d4371</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Nurse Details" display_value="Nurse Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">ade6d0bd4761311029853e7d826d43e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 10:00:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 10:00:08</sys_created_on>
+            <sys_id>65e6d0fd4761311029853e7d826d4372</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Nurse Details" display_value="Nurse Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">ade6d0bd4761311029853e7d826d43e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 10:00:08</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nurse_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 10:00:08</sys_created_on>
+            <sys_id>61e6d0fd4761311029853e7d826d4372</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Nurse Details" display_value="Nurse Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">ade6d0bd4761311029853e7d826d43e4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 10:00:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Nurse Details</caption>
+            <header>false</header>
+            <name>x_103446_help_911_ambulance_dispatcher</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 10:00:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ade6d0bd4761311029853e7d826d43e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_103446_help_911_ambulance_dispatcher</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Help 911" source="x_103446_help_911">582188794721311029853e7d826d43ad</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Help 911">582188794721311029853e7d826d43ad</sys_scope>
+            <sys_update_name>sys_ui_section_ade6d0bd4761311029853e7d826d43e4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 10:00:08</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Help 911">582188794721311029853e7d826d43ad</application>
+        <file_path/>
+        <instance_id>409e51dbdba188d08aea21c4059619db</instance_id>
+        <instance_name>dev96014</instance_name>
+        <name>sys_ui_section_ade6d0bd4761311029853e7d826d43e4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Nurse Details" section_id="ade6d0bd4761311029853e7d826d43e4" sys_domain="global" table="x_103446_help_911_ambulance_dispatcher" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-28 10:00:08</sys_created_on><sys_id>6de6d0fd4761311029853e7d826d4371</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Nurse Details" display_value="Nurse Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">ade6d0bd4761311029853e7d826d43e4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-28 10:00:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-28 10:00:08</sys_created_on><sys_id>65e6d0fd4761311029853e7d826d4372</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Nurse Details" display_value="Nurse Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">ade6d0bd4761311029853e7d826d43e4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-28 10:00:08</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>nurse_name</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-28 10:00:08</sys_created_on><sys_id>61e6d0fd4761311029853e7d826d4372</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Nurse Details" display_value="Nurse Details" name="x_103446_help_911_ambulance_dispatcher" sys_domain="global" view="Default view">ade6d0bd4761311029853e7d826d43e4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-28 10:00:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Nurse Details</caption><header>false</header><name>x_103446_help_911_ambulance_dispatcher</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-28 10:00:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ade6d0bd4761311029853e7d826d43e4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_103446_help_911_ambulance_dispatcher</sys_name><sys_overrides/><sys_package display_value="Help 911" source="x_103446_help_911">582188794721311029853e7d826d43ad</sys_package><sys_policy/><sys_scope display_value="Help 911">582188794721311029853e7d826d43ad</sys_scope><sys_update_name>sys_ui_section_ade6d0bd4761311029853e7d826d43e4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-28 10:00:08</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1812035005</payload_hash>
+        <record_name>Ambulance Dispatcher</record_name>
+        <reverted_from/>
+        <source>d82188794721311029853e7d826d43b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-28 10:00:08</sys_created_on>
+        <sys_id>65e6d0fd4761311029853e7d826d4374</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18adb3b40a00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-28 10:00:08</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>e9e6d0fdfb61311071ee53b80df6c073</update_guid>
+        <update_guid_history>e9e6d0fdfb61311071ee53b80df6c073:1812035005</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-28 10:11:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>465e6fd03974457d9945148d6c853791</sys_id>
+        <sys_metadata>ade6d0bd4761311029853e7d826d43e4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nurse Details</sys_name>
+        <sys_package display_value="Help 911" source="x_103446_help_911">582188794721311029853e7d826d43ad</sys_package>
+        <sys_parent display_value="">add610fd4761311029853e7d826d4373</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Help 911">582188794721311029853e7d826d43ad</sys_scope>
+        <sys_scope_delete display_value="">1cb97c7d9d99483288d642158d81d824</sys_scope_delete>
+        <sys_update_name>sys_ui_section_ade6d0bd4761311029853e7d826d43e4</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_ade6d0bd4761311029853e7d826d43e4">65e6d0fd4761311029853e7d826d4374</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-28 10:11:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Call Details" section_id="49b29cb94761311029853e7d826d4369" sys_domain="global" table="x_103446_help_911_on_call_details" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 09:57:07</sys_created_on>
+            <sys_id>2d36d4bd4761311029853e7d826d431c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Call Details" display_value="Call Details" name="x_103446_help_911_on_call_details" sys_domain="global" view="Default view">49b29cb94761311029853e7d826d4369</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 09:57:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>recurring_call</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 09:57:07</sys_created_on>
+            <sys_id>2136d4bd4761311029853e7d826d431d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Call Details" display_value="Call Details" name="x_103446_help_911_on_call_details" sys_domain="global" view="Default view">49b29cb94761311029853e7d826d4369</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 09:57:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 09:57:07</sys_created_on>
+            <sys_id>2536d4bd4761311029853e7d826d431d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Call Details" display_value="Call Details" name="x_103446_help_911_on_call_details" sys_domain="global" view="Default view">49b29cb94761311029853e7d826d4369</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 09:57:07</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>patient_id</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 09:57:07</sys_created_on>
+            <sys_id>2936d4bd4761311029853e7d826d431d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Call Details" display_value="Call Details" name="x_103446_help_911_on_call_details" sys_domain="global" view="Default view">49b29cb94761311029853e7d826d4369</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 09:57:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Call Details</caption>
+            <header>false</header>
+            <name>x_103446_help_911_on_call_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 09:41:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49b29cb94761311029853e7d826d4369</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_103446_help_911_on_call_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Help 911" source="x_103446_help_911">582188794721311029853e7d826d43ad</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Help 911">582188794721311029853e7d826d43ad</sys_scope>
+            <sys_update_name>sys_ui_section_49b29cb94761311029853e7d826d4369</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 09:54:00</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Help 911">582188794721311029853e7d826d43ad</application>
+        <file_path/>
+        <instance_id>409e51dbdba188d08aea21c4059619db</instance_id>
+        <instance_name>dev96014</instance_name>
+        <name>sys_ui_section_49b29cb94761311029853e7d826d4369</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Call Details" section_id="49b29cb94761311029853e7d826d4369" sys_domain="global" table="x_103446_help_911_on_call_details" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-28 09:57:07</sys_created_on><sys_id>2d36d4bd4761311029853e7d826d431c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Call Details" display_value="Call Details" name="x_103446_help_911_on_call_details" sys_domain="global" view="Default view">49b29cb94761311029853e7d826d4369</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-28 09:57:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>recurring_call</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-28 09:57:07</sys_created_on><sys_id>2136d4bd4761311029853e7d826d431d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Call Details" display_value="Call Details" name="x_103446_help_911_on_call_details" sys_domain="global" view="Default view">49b29cb94761311029853e7d826d4369</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-28 09:57:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-28 09:57:07</sys_created_on><sys_id>2536d4bd4761311029853e7d826d431d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Call Details" display_value="Call Details" name="x_103446_help_911_on_call_details" sys_domain="global" view="Default view">49b29cb94761311029853e7d826d4369</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-28 09:57:07</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>patient_id</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-28 09:57:07</sys_created_on><sys_id>2936d4bd4761311029853e7d826d431d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Call Details" display_value="Call Details" name="x_103446_help_911_on_call_details" sys_domain="global" view="Default view">49b29cb94761311029853e7d826d4369</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-28 09:57:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Call Details</caption><header>false</header><name>x_103446_help_911_on_call_details</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-28 09:41:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>49b29cb94761311029853e7d826d4369</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_103446_help_911_on_call_details</sys_name><sys_overrides/><sys_package display_value="Help 911" source="x_103446_help_911">582188794721311029853e7d826d43ad</sys_package><sys_policy/><sys_scope display_value="Help 911">582188794721311029853e7d826d43ad</sys_scope><sys_update_name>sys_ui_section_49b29cb94761311029853e7d826d4369</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-28 09:54:00</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-995219973</payload_hash>
+        <record_name>On Call Details</record_name>
+        <reverted_from/>
+        <source>d82188794721311029853e7d826d43b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-28 09:57:07</sys_created_on>
+        <sys_id>2936d4bd4761311029853e7d826d431f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18adb387e310000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-28 09:57:07</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>ed36d4bdff6131102f990419a4ce341e</update_guid>
+        <update_guid_history>ed36d4bdff6131102f990419a4ce341e:-995219973,9085d87d41613110f6816029558ba312:-485307760,3775987d84613110092fbe4207bc94b8:-1721089225,0db29cb90b6131105bf4095985db0a6b:1238056185</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-28 10:11:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>17ca6a6461cf4383a8fa05ff6f7e1be1</sys_id>
+        <sys_metadata>49b29cb94761311029853e7d826d4369</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Call Details</sys_name>
+        <sys_package display_value="Help 911" source="x_103446_help_911">582188794721311029853e7d826d43ad</sys_package>
+        <sys_parent display_value="">ff77c0314761311029853e7d826d43f0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Help 911">582188794721311029853e7d826d43ad</sys_scope>
+        <sys_scope_delete display_value="">1cb97c7d9d99483288d642158d81d824</sys_scope_delete>
+        <sys_update_name>sys_ui_section_49b29cb94761311029853e7d826d4369</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_49b29cb94761311029853e7d826d4369">2936d4bd4761311029853e7d826d431f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-28 10:11:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

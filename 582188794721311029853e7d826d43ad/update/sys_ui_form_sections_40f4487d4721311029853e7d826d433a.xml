@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="40f4487d4721311029853e7d826d433a" sys_domain="global" table="x_103446_help_911_nurses" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 08:41:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04f4487d4721311029853e7d826d433d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_103446_help_911_nurses" name="x_103446_help_911_nurses" sys_domain="global" view="Default view">40f4487d4721311029853e7d826d433a</sys_ui_form>
+            <sys_ui_section caption="Nurse Details" display_value="Nurse Details" name="x_103446_help_911_nurses" sys_domain="global" view="Default view">b081c8794721311029853e7d826d43af</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 08:41:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 08:41:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00f4487d4721311029853e7d826d433e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_103446_help_911_nurses" name="x_103446_help_911_nurses" sys_domain="global" view="Default view">40f4487d4721311029853e7d826d433a</sys_ui_form>
+            <sys_ui_section caption="Hospital &amp; Department" display_value="Hospital &amp; Department" name="x_103446_help_911_nurses" sys_domain="global" view="Default view">80f4487d4721311029853e7d826d4338</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 08:41:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 08:41:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cf4487d4721311029853e7d826d4341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_103446_help_911_nurses" name="x_103446_help_911_nurses" sys_domain="global" view="Default view">40f4487d4721311029853e7d826d433a</sys_ui_form>
+            <sys_ui_section caption="Calls &amp; Assignment" display_value="Calls &amp; Assignment" name="x_103446_help_911_nurses" sys_domain="global" view="Default view">4cf4487d4721311029853e7d826d4338</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 08:41:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 08:41:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08f4487d4721311029853e7d826d4345</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_103446_help_911_nurses" name="x_103446_help_911_nurses" sys_domain="global" view="Default view">40f4487d4721311029853e7d826d433a</sys_ui_form>
+            <sys_ui_section caption="Skills &amp; Specialities" display_value="Skills &amp; Specialities" name="x_103446_help_911_nurses" sys_domain="global" view="Default view">08f4487d4721311029853e7d826d4339</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 08:41:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_103446_help_911_nurses</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-28 08:41:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40f4487d4721311029853e7d826d433a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_103446_help_911_nurses</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Help 911" source="x_103446_help_911">582188794721311029853e7d826d43ad</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Help 911">582188794721311029853e7d826d43ad</sys_scope>
+            <sys_update_name>sys_ui_form_sections_40f4487d4721311029853e7d826d433a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-28 08:41:39</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

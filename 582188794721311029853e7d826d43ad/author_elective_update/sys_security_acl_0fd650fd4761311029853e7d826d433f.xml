@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_103446_help_911_ambulance_dispatcher</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-28 09:59:57</sys_created_on>
+        <sys_id>0fd650fd4761311029853e7d826d433f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_103446_help_911_ambulance_dispatcher</sys_name>
+        <sys_package display_value="Help 911" source="x_103446_help_911">582188794721311029853e7d826d43ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Help 911">582188794721311029853e7d826d43ad</sys_scope>
+        <sys_update_name>sys_security_acl_0fd650fd4761311029853e7d826d433f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-28 09:59:57</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Help 911">582188794721311029853e7d826d43ad</application>
+        <file_path/>
+        <instance_id>409e51dbdba188d08aea21c4059619db</instance_id>
+        <instance_name>dev96014</instance_name>
+        <name>sys_security_acl_0fd650fd4761311029853e7d826d433f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_103446_help_911_ambulance_dispatcher</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-28 09:59:57</sys_created_on><sys_id>0fd650fd4761311029853e7d826d433f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_103446_help_911_ambulance_dispatcher</sys_name><sys_package display_value="Help 911" source="x_103446_help_911">582188794721311029853e7d826d43ad</sys_package><sys_policy/><sys_scope display_value="Help 911">582188794721311029853e7d826d43ad</sys_scope><sys_update_name>sys_security_acl_0fd650fd4761311029853e7d826d433f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-28 09:59:57</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1656152711</payload_hash>
+        <record_name>x_103446_help_911_ambulance_dispatcher</record_name>
+        <reverted_from/>
+        <source>d82188794721311029853e7d826d43b0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-28 09:59:58</sys_created_on>
+        <sys_id>c3d650fd4761311029853e7d826d43bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18adb3b197a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-28 09:59:58</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>0bd650fd696131105c176030044d50be</update_guid>
+        <update_guid_history>0bd650fd696131105c176030044d50be:1656152711</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-28 10:11:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>00f5e8dade8e47908008bbf13943f100</sys_id>
+        <sys_metadata>0fd650fd4761311029853e7d826d433f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_103446_help_911_ambulance_dispatcher</sys_name>
+        <sys_package display_value="Help 911" source="x_103446_help_911">582188794721311029853e7d826d43ad</sys_package>
+        <sys_parent display_value="">add610fd4761311029853e7d826d4377</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Help 911">582188794721311029853e7d826d43ad</sys_scope>
+        <sys_scope_delete display_value="">1cb97c7d9d99483288d642158d81d824</sys_scope_delete>
+        <sys_update_name>sys_security_acl_0fd650fd4761311029853e7d826d433f</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_0fd650fd4761311029853e7d826d433f">c3d650fd4761311029853e7d826d43bf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-28 10:11:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
